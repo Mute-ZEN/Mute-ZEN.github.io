@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "来自邓一帆的自我介绍"
-description              : 
+description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
 repository               : "Mute-ZEN/Mute-ZEN"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifan Deng (邓一帆)"
+  name             : "Yifan Deng  邓一帆"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "IIE\n\nResearch scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
+  bio              : "IIE"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
