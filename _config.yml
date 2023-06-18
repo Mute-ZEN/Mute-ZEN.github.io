@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "来自邓一帆的自我介绍"
 description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
-repository               : "Mute-ZEN/Mute-ZEN"
+repository               : "deng1fan/deng1fan"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Mute-ZEN  # e.g., "github username"
+  github           : deng1fan  # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
