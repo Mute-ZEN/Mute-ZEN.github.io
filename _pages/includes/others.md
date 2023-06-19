@@ -1,19 +1,14 @@
 
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+- *2020.06 - 今*, 中国科学院大学
+- *2016.09 - 2020.06*, 华北电力大学
+- *2013.09 - 2016.06*, 河北正定中学
 
-# 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+# 💬 Projects
+- *2022.05 - 2022.11*， [**AgileLightning**](https://github.com/deng1fan/AgileLightning)，**独立完成**的一个基于 Pytorch Lightning 的项目框架，借鉴于网站开发的前后端分离思想，设计了深度学习项目各部分之间相互衔接的接口，在保证代码使用自由度的情况下，实现了模型、数据集、评价方法即插即用，同时还支持钉钉通知、GPU 排队等多项实用功能。
+- *2019.08 - 2020.05*， **\*\*省破产资金管理平台**，用于实现人民法院的破产资金管理的信息化、办公电子化。**重度参与**并负责：使用 Spring Boot + Mybatis + Redis 搭建后台数据同步服务，其中 Redis 用于处理异常的同步情况；同时完成了后台管理系统的开发。
+- *2019.07 - 2020.03*， **\*\*市国家电网门户网站**，用于实现电网的网上信息公开。**重度参与**并负责：使用 Elasticsearch + Logstash + Docker 搭建全文搜索引擎；使用 Spring Boot + Mybatis + Redis 搭建后台服务以及数据库同步；使用 Jemeter 进行性能测试，并前往现场完成安全渗透测试；对接国家电网外部接口；完成线上部署。
+- *2017.10 - 2018.09*， **创业项目——\*\*教育网站**，学校老师的创业项目，用于实现教育资源的整合。**重度参与**并负责：竞品分析、需求调研、功能设计、用户交互体验优化、后台开发等多项工作。独立完成 IM 即时私人聊天、群聊、信息流通知以及更加复杂的“圈子”和“联盟”等功能。
 
 # 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+- *2021.07 - 2022.09*,  北京理工大学东南信息技术研究院，福建莆田
