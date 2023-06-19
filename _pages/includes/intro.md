@@ -1,5 +1,4 @@
-I graduated from [Department of Computer Science](http://ckc.zju.edu.cn/ckcen/main.htm), North China Electric Power University (华北电力大学计算机系) with a bachelor's degree.
+我本科毕业于华北电力大学计算机系，Dreamtech 工作组成员，曾参与多项公司级项目，后保研至中国科学院大学攻读博士学位，由信息工程研究所培养，师从黄河燕教授。
 
-My research interest includes Faithful Dialogs Generation, Large Language Model, Personalized Dialogs Generation, Controllable Generation. I have published 1 paper at the top international AI conferences such as ACL. 
+刚迁移至本博客风格，内容不准确，持续更新中...
 
-Constantly updating...

@@ -1,9 +1,6 @@
 # 🔥 News
-- *2023.05*: 🎉 One papers are accepted by ACL 2023 main conference!
-- *2023.04*: 🔥 We release [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) (⭐️6k+)
-- *2023.04*: 🎉 One paper ([Make-an-Audio](https://text-to-audio.github.io/)) is accepted by ICML 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: Three papers are accepted by ICLR 2023!
-- *2023.01*: I join [Bytedance AI Lab, Speech & Audio Team](https://ailab.bytedance.com/) <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist in Singapore!
-- *2022.12*: 🎉 My [google scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ) citations have exceeded 2000!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2023.06*: 🔥 个人主页全面焕新！
+- *2023.05*: 🎉 一篇论文被接收为 ACL 2023 主会议论文！
+- *2022.10*: 🚀 [AgileLightning](https://github.com/deng1fan/GpuQueuer) 新增批量实验计划功能支持！
+- *2022.08*: 🔥 发布了基于 Redis 的超轻量、即插即用的程序排队工具 [GpuQueuer](https://github.com/deng1fan/GpuQueuer)，欢迎 Star 和 Fork！
+- *2022.08*: 🔥 发布了个人项目代码框架 [AgileLightning](https://github.com/deng1fan/GpuQueuer)，欢迎 Star 和 Fork！
