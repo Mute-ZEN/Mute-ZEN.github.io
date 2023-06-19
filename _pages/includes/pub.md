@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/Towards Faithful Dialogs via Focus Learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Faithful Dialogs via Focus Learning](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+Towards Faithful Dialogs via Focus Learning \\
 **Yifan Deng**, Xingsheng Zhang, Heyan Huang, Yue HU
 - 提出一种新的思路去减少知识对话中的幻觉
 - 通过对训练过程的学习焦点进行调整，使得模型更加关注于知识的表达
@@ -14,7 +14,7 @@
 </div></div>
 
 
-- ``SMC 2023`` [Personalized Educational Video Evaluation Combining Student's Cognitive and Teaching Style](https://arxiv.org/abs/2106.08507), Jinta Weng, Haoyu Dong, **Yifan Deng**, Hao Wu, Yue Hu, Heyan Huang
+- ``SMC 2023`` Personalized Educational Video Evaluation Combining Student's Cognitive and Teaching Style, Jinta Weng, Haoyu Dong, **Yifan Deng**, Hao Wu, Yue Hu, Heyan Huang
 
 <!-- - ``SMC 2023`` [Personalized Educational Video Evaluation Combining Student's Cognitive and Teaching Style](https://arxiv.org/abs/2106.08507), Jinta Weng, Haoyu Dong, **Yifan Deng**, Hao Wu, Yue Hu, Heyan Huang -->
 

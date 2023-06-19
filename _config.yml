@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "来自邓一帆的自我介绍"
+title                    : "邓一帆"
 description              : "目前于中国科学院信息工程研究所攻读博士学位"
 repository               : "deng1fan/deng1fan"
 google_scholar_stats_use_cdn : true
