@@ -8,14 +8,14 @@
 
 [Towards Faithful Dialogs via Focus Learning](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
 **Yifan Deng**, Xingsheng Zhang, Heyan Huang, Yue HU
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+- 提出一种新的思路去减少知识对话中的幻觉
+- 通过对训练过程的学习焦点进行调整，使得模型更加关注于知识的表达
+- 我们的方法在 OOD 和 Low-resource 场景下都有很好的效果
 </div></div>
 
 
 - ``SMC 2023`` [Personalized Educational Video Evaluation Combining Student's Cognitive and Teaching Style](https://arxiv.org/abs/2106.08507), Jinta Weng, Haoyu Dong, **Yifan Deng**, Hao Wu, Yue Hu, Heyan Huang
 
-- ``SMC 2023`` [Personalized Educational Video Evaluation Combining Student's Cognitive and Teaching Style](https://arxiv.org/abs/2106.08507), Jinta Weng, Haoyu Dong, **Yifan Deng**, Hao Wu, Yue Hu, Heyan Huang
+<!-- - ``SMC 2023`` [Personalized Educational Video Evaluation Combining Student's Cognitive and Teaching Style](https://arxiv.org/abs/2106.08507), Jinta Weng, Haoyu Dong, **Yifan Deng**, Hao Wu, Yue Hu, Heyan Huang -->
 
 <!-- - ``INTERSPEECH 2021`` <span style="color:red">(best student paper award candidate)</span> [WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution](https://arxiv.org/abs/2106.08507), Kexun Zhang, **Yi Ren**, Changliang Xu and Zhou Zhao -->
