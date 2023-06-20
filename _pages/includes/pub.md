@@ -16,6 +16,5 @@ Towards Faithful Dialogs via Focus Learning \\
 
 - ``SMC 2023`` Personalized Educational Video Evaluation Combining Student's Cognitive and Teaching Style, Jinta Weng, Haoyu Dong, **Yifan Deng**, Hao Wu, Yue Hu, Heyan Huang
 
-<!-- - ``SMC 2023`` [Personalized Educational Video Evaluation Combining Student's Cognitive and Teaching Style](https://arxiv.org/abs/2106.08507), Jinta Weng, Haoyu Dong, **Yifan Deng**, Hao Wu, Yue Hu, Heyan Huang -->
 
 <!-- - ``INTERSPEECH 2021`` <span style="color:red">(best student paper award candidate)</span> [WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution](https://arxiv.org/abs/2106.08507), Kexun Zhang, **Yi Ren**, Changliang Xu and Zhou Zhao -->
