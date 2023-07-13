@@ -1,4 +1,5 @@
 # 🔥 News
+- *2023.07*: 🔥 发布了全新工具包 [zhei](https://github.com/deng1fan/zhei) [![](https://img.shields.io/github/stars/deng1fan/zhei?style=social&label=Code+Stars)](https://github.com/deng1fan/zhei) 雏形，将会包含 AgileLightning 框架的全部特性，欢迎 Star 和 Fork！
 - *2023.06*: 🔥 个人主页全面焕新！
 - *2023.05*: 🎉 一篇论文被接收为 ACL 2023 主会议论文！
 - *2022.10*: 🚀 [AgileLightning](https://github.com/deng1fan/GpuQueuer) 新增批量实验计划功能支持！
