@@ -1,3 +1,3 @@
 # 📷 Gallery
 
-# {% include ../../_includes/gallery.html %}
+{% include ../../_includes/gallery.html %}
