@@ -13,6 +13,9 @@
 - 我们的方法在 OOD 和 Low-resource 场景下都有很好的效果
 </div></div>
 
+- ``ICASSP 2024`` ConsPrompt: Exploiting Contrastive Samples for Few-shot Prompt Learning, Jinta Weng, **Yifan Deng**, Donghao Li, Hao You, Yue Hu, Heyan Huang
+
+- ``ICASSP 2024`` SUMMARIZING COMMUNITY-BASED QUESTIONANSWER PAIRS WITH FOCUS RECTIFICATION, Mingyang Mei, Yue Hu, **Yifan Deng**, Xingsheng Zhang, Yunpeng Li, Hao You
 
 - ``SMC 2023`` Personalized Educational Video Evaluation Combining Student's Cognitive and Teaching Style, Jinta Weng, Haoyu Dong, **Yifan Deng**, Hao Wu, Yue Hu, Heyan Huang
 
